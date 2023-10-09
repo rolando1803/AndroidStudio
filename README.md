@@ -1,5 +1,6 @@
-![image](https://github.com/rolando1803/AndroidStudio/assets/55965131/312d58b0-e118-4d2d-b49c-7509471cb544)# AndroidStudio
+# AndroidStudio
 ## Curso de Android con Android Studio | pildorasinformaticas | 108 Videos
+
 ### a.1-Presentación
 ### a.2-Características e instalación
 ### a.3-Creación de Proyecto Android Studio
